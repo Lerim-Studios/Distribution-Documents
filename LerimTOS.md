@@ -43,5 +43,7 @@
 ### Соц. Сети
 
 [YouTube](https://youtube.com/@lerimstudios_official)
+
 [Telegram](https://t.me/lerim_studios) или [TDeR Telegram](https://t.me/TinyDeceptionReturn)
+
 [GameJolt](https://gamejolt.com/@LerimSt)

@@ -1,1 +1,1 @@
-- [x] #1
+- [x] https://github.com/Lerim-Studios/.github/issues/1

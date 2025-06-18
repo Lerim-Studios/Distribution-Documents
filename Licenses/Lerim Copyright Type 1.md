@@ -1,3 +1,3 @@
-# Lerim Copyright Part 2
+# Lerim Copyright Type 1
 ## Разрешено
 ## Запрещено
